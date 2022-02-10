@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'forestcoverclassfier'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4DC675FE0A349ACA384FAC6EDF43577 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B5F790A63B54EF4ADE0FE1260093EBC }}
