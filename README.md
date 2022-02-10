@@ -92,12 +92,20 @@ Data Insertion in Database
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 5) Once the prediction is made for all the clusters, the predictions are saved in a CSV file with the names of forest cover was was given in the training set before encoding  at a given location and the location is returned to the client.
  
-# Deployment
+## Forest type classifier project folder structure
+
+
+## Deployment
 The deployment of the project is done on GCP.
+![image](https://user-images.githubusercontent.com/55132850/153413089-d081bc61-6cff-404c-bd5b-1b281991cf5a.png)
 
 > requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
 
-> main.py is the entry point of our application, where the flask server starts. 
+> main.py is the entry point of our application, where the flask server starts.
+
+![Screenshot (169)](https://user-images.githubusercontent.com/55132850/153412682-2940664e-cfba-4cb2-8102-a5b63203ad07.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/55132850/153412700-f79e9aa2-42cd-41a8-94df-e729840227b8.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/55132850/153412815-97329a29-f582-44c5-a4e4-fdb2dc961c56.png)
 
 [Forest Cover Classfier](https://forestcoverclassfier.el.r.appspot.com)                                                      
 
