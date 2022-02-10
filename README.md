@@ -94,18 +94,21 @@ Data Insertion in Database
  
 ## Forest type classifier project folder structure
 
-
-## Deployment
-The deployment of the project is done on GCP.
-![image](https://user-images.githubusercontent.com/55132850/153413089-d081bc61-6cff-404c-bd5b-1b281991cf5a.png)
-
 > requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
 
 > main.py is the entry point of our application, where the flask server starts.
 
+![image](https://user-images.githubusercontent.com/55132850/153413089-d081bc61-6cff-404c-bd5b-1b281991cf5a.png)
+
+## Deployment
+The deployment of the project is done on GCP and Azure.
+
 ![Screenshot (169)](https://user-images.githubusercontent.com/55132850/153412682-2940664e-cfba-4cb2-8102-a5b63203ad07.png)
+
 ![Screenshot (170)](https://user-images.githubusercontent.com/55132850/153412700-f79e9aa2-42cd-41a8-94df-e729840227b8.png)
+
 ![Screenshot (171)](https://user-images.githubusercontent.com/55132850/153412815-97329a29-f582-44c5-a4e4-fdb2dc961c56.png)
 
-[Forest Cover Classfier](https://forestcoverclassfier.el.r.appspot.com)                                                      
+[Forest Cover Classfier GCP](https://forestcoverclassfier.el.r.appspot.com)                                                      
+[Forest Cover Classfier AZURE](https://forestcoverclassfier.azurewebsites.net)                                                      
 
