@@ -4,8 +4,12 @@ Credits: Ineuron Intelligence
 
 Problem Statement
 To build a classification methodology to predict the type of forest cover based on the given training data. 
-Architecture
-  
+
+## Architecture
+
+![architecture](https://user-images.githubusercontent.com/55132850/153544235-fb0c572d-9a38-4e0c-b028-97d928323534.jpg)
+
+
 Data Description
 The client will send data in multiple sets of files in batches at a given location. Data will contain different indicators to classify them betwee given types of forest cover.
 
